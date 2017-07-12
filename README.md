@@ -8,6 +8,7 @@ conditions for the wave equation.
 
 Python program to animate the solution.
 
+
 Linux instructions
 
 Compile C files:
