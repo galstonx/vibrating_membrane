@@ -14,8 +14,11 @@ Linux instructions
 Compile C files:
 
 gcc -c ode_methods.c
+
 gcc -o vibrating_membrane1 vibrating_membrane1.c ode_methods.o -lm
+
 gcc -o vibrating_membrane2 vibrating_membrane2.c ode_methods.o -lm
+
 gcc -o vibrating_membrane3 vibrating_membrane3.c ode_methods.o -lm
 
 Then run them to create data:
